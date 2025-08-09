@@ -5,7 +5,7 @@
 
 I explored **New York Airbnb listings** to understand how prices, availability, and room types vary across neighborhoods. Using **Pandas, NumPy, Matplotlib, and Seaborn**, I cleaned the dataset, looked for patterns, and visualized the results.
 
-![](https://github.com/abhayshrivastava1/Airbnb-Listings-EDA-New-York-2024/blob/main/image.png)
+![](https://github.com/abhayshrivastava1/Airbnb-Listings-EDA-New-York-2024/blob/main/image1.png)
 ---
 
 ## Goals
